@@ -52,6 +52,10 @@ after we applied the model and saw the accuracy and validation accuracy we had t
 ![image 3](https://github.com/Ahmedramadan125/ecg-signal-project/assets/170275437/4f5d9272-fe71-4f91-ab28-a2481e4cb4dc)
 
 
+then we calculated the f1score,accuracy,precision,specifity,senstivity
+
+![image 4](https://github.com/Ahmedramadan125/ecg-signal-project/assets/170275437/19c4d631-04ac-4334-9e02-b98e553d41f1)
+
 #### So from the results we can see that the model is nearly good and acceptable but has alot of improvements to be done maybe we can add some layers or apply more epochs 
  
 
